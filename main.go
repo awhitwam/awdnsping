@@ -2,6 +2,17 @@ package main
 
 import (
 	"encoding/csv"
+	"github.com/bogdanovich/dns_resolver"
+	"log"
+	"math/rand"
+	"os"
+	"time"
+)
+
+//aw test
+
+import (
+	"encoding/csv"
 	"fmt"
 	"github.com/bogdanovich/dns_resolver"
 	"log"
